@@ -37,5 +37,5 @@ The only values are ‘us’ for the United States and ‘ca’ for Canada.
 * The page only allows users to manipulate the sighting information by entering criteria one after another. Users will not be able to save the search result directly from the page. It would be convenient if the result can be downloaded into the user’s device in any format.
 
 ### Recommendations for further development
-* Each sighting contains a comment to describe the object more specifically, such as colors or how it looked like. Setting a key word filter over the comments will be useful and add value to users.
+* Each sighting contains a comment to describe the object, or UFO, more specifically, such as colors or how it looked like. Setting a key word filter over the comments will be useful and add value to users.
 * There are only 111 UFO sighting reports in the page currently, and they are limited to the United States and Canada. It would be recommended that more data be gathered not only from these two countries but from all over the world. Then, the page will be more attractive.
