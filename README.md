@@ -10,7 +10,7 @@ Dana, a data journalist, is trying to develop an HTML page that would contain an
 The sighting data will be tuned as follows using the search criteria such as date, city, state, country, and shape. Either single criterion or multiple criteria can be applied by entry of values in blank boxes, which are filled with grey placeholders. An example of value entry is presented below as Picture 1.
 
 ### General instructions
-When you enter a value in the Enter Date box, it needs to be in mm/dd/yyyy format. As shown in the picture, ‘0’ is not necessary in the ten’s place in the case that month or day is a single digit. Also, text entry is case sensitive, and only lower cases will be used. If you would like to see sightings only in the United States, the entry needs to be ‘us’ in the Enter a Country box.
+When you enter a value in the Enter Date box, it needs to be in mm/dd/yyyy format. As shown in the picture, ‘0’ is not necessary in the ten’s place in the case that month or day is a single digit. Also, text entry is case sensitive, and only lower cases will be used. If you would like to see sightings in the United States, the entry needs to be ‘us’ in the Enter a Country box.
 
 #### (Picture 1) Value entry example
 ![](https://github.com/Ryoichi2022/UFOs/blob/main/Picture_1.png)
