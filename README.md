@@ -17,7 +17,7 @@ When you enter a value in the Enter Date box, it needs to be in mm/dd/yyyy forma
 
 ### Individual entry box
 #### * Date
-The table includes sightings during the period from January 1, 2010 (1/1/2010) through January 13, 2010 (1/13/2010). If a date outside the period is entered, nothing will be displayed on the page.
+The entire table includes sightings during the period from January 1, 2010 (1/1/2010) through January 13, 2010 (1/13/2010). If a date outside the period is entered, nothing will be displayed on the page.
 
 #### * City
 Various cities are available as entry option. Please be sure to type it only with lower cases.
