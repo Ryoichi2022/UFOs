@@ -17,23 +17,18 @@ When you enter a value in the Enter Date box, it needs to be in mm/dd/yyyy forma
 
 ### Individual entry box
 #### * Date
-
 The table includes sightings during the period from January 1, 2010 (1/1/2010) through January 13, 2010 (1/13/2010). If a date outside the period is entered, nothing will be displayed on the page.
 
 #### * City
-
 Various cities are available as entry option. Please be sure to type it only with lower cases.
 
 #### * State
-
 You are supposed to enter the state value using the regular abbreviation of the states in the United States as well as Canada. Currently, 35 U.S. states are available to fill in the box including ca, fl, and ma.
 
 #### * Country
-
 The only values are ‘us’ for the United States and ‘ca’ for Canada.
 
 #### * Shape
-
 16 specific shapes plus ‘other’ and ‘unknown’ can be used for the Enter a Shape box. The top three shapes in the table are light, triangle, and sphere.
 
 
