@@ -2,7 +2,7 @@ Challenge 11
 # UFO Sightings Search
 
 ## 1. Overview of project
-Dana, a data journalist, is trying to develop a HTML page that would contain an article and a table of data related to UFO sightings. So far, the sighting information has been summarized in a JavaScript file. Through the project, the table will be incorporated into the HTML page with filters so that users can easily manipulate the sighting data and see the results on the page.
+Dana, a data journalist, is trying to develop an HTML page that would contain an article and a table of data related to UFO sightings. So far, the sighting information has been summarized in a JavaScript file. Through the project, the table will be incorporated into the HTML page with filters so that users can easily manipulate the sighting data and see the results on the page.
 
 
 ## 2. Results
